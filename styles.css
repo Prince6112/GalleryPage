@@ -1,0 +1,38 @@
+.Heading{
+	font-size: 10vh;
+	color: #707070;
+	font-weight: 700;
+    margin-top: 75px;
+    text-align: center;
+}
+
+h3{
+	position: relative;
+	text-align: center;
+}
+
+img {
+	width: 100%;
+	background-position: center;
+	background-size: cover;
+	transition: transform .5s;
+}
+.col:hover{
+	transform: scale(1.2); 
+	z-index: 1;
+}
+
+.container{
+	width: auto;
+	height: 5%;
+	margin-top: 50px;
+}
+
+.wid{
+	width: 50%;
+}
+
+.col{
+	width: 50%;
+}
+
