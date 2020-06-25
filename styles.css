@@ -1,14 +1,14 @@
 .Heading{
-	font-size: 10vh;
 	color: #707070;
-	font-weight: 700;
-    margin-top: 75px;
-    text-align: center;
+	font-weight: 500;
+    margin-top: 25px;
+	text-align: center;
+	font-size: 10vh;
 }
 
 h3{
 	position: relative;
-	text-align: center;
+	text-align: center;	
 }
 
 img {
@@ -23,16 +23,12 @@ img {
 }
 
 .container{
-	width: auto;
-	height: 5%;
 	margin-top: 50px;
 }
 
-.wid{
-	width: 50%;
-}
 
-.col{
-	width: 50%;
+
+.shadow-lg{
+	max-width: 	90%;
 }
 
